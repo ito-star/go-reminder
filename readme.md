@@ -21,6 +21,6 @@ go build main.go
 
 ## Run applicatin in background
 ```
-nohup ./main &
+nohup ./main 1 &
 ```
 
